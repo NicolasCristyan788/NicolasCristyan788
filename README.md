@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nicolas Oliveira!
 
-<!--
-**NicolasCristyan788/NicolasCristyan788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Python | 💡 Automação de Processos | 📊 Dashboards Inteligentes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por desenvolver soluções digitais que simplificam processos e aumentam a eficiência operacional. Já projetei sistemas personalizados como:
+
+Painéis com gráficos dinâmicos para monitoramento de produção;
+
+Ferramentas de análise de planilhas para minimizar o tempo gasto em analíse manual;
+
+Sistemas de registro de pedidos de cimento, otimizando o fluxo entre estoque e operação.
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python (Pandas, Tkinter, CustomTkinter, PyAutoGUI, flask)
+- Excel
+- Power BI e Análise de Dados (Básico)
+- Git e GitHub
+- Automação via Outlook & WhatsApp
+
+---
+
+## 📌 Projetos em Destaque
+
+| **Promofarma** | Sistema de controle de estoque com alertas automáticos, e-mail e WhatsApp | [Ver repositório](https://github.com/NicolasCristyan788/promofarma) |
+| **Dashboard Produção Líquidos** | Painel de análise de produção com Power BI e Excel | [Ver repositório](https://github.com/NicolasCristyan788/producao-dashboard-liquidos) |
+
+---
+
+## 📫 Contato
+
+- ✉️ **Email:** Oliveiranicolas380@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- 💻 [GitHub](https://github.com/NicolasCristyan788)
+
+---
+
+_“Transformando ideias em soluções reais com automação e dados.”_
