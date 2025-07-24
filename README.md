@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Nicolas Oliveira!
 
-🎯 Desenvolvedor Python | 💡 Automação de Processos | 📊 Dashboards Inteligentes
+🎯 Desenvolvedor Python | 💡 Automação de Processos | 📊 Dashboards Inteligentes | 🎯 Estudante de Java
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por desenvolver soluções digitais que simplificam processos e aumentam a eficiência operacional. Já projetei sistemas personalizados como:
+Gosto de desenvolver soluções digitais que simplificam processos e aumentam a eficiência operacional. Já projetei sistemas web personalizados como:
 
 Painéis com gráficos dinâmicos para monitoramento de produção;
 
