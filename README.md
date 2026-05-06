@@ -21,7 +21,6 @@ Sistemas de registro de pedidos de cimento, otimizando o fluxo entre estoque e o
 - Excel
 - Power BI e Análise de Dados (Básico)
 - Git e GitHub
-- Automação via Outlook & WhatsApp
 
 ---
 
