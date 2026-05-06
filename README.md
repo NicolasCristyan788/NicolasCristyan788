@@ -113,7 +113,8 @@ O sistema realiza leitura dinâmica dos dados produtivos e apresenta visualizaç
 * SQL Avançado
 * Engenharia de Dados
 * Estrutura de Dados
-* Desenvolvimento Backend
+* Automações voltadas a análise de dados
+* Desenvolvimento back-end
 
 ---
 
